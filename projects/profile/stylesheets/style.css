@@ -1,0 +1,27 @@
+ body {
+      text-align: center;
+      background-color: rgb(255,203,5);
+      background-size: cover;
+      background-position: center;
+      color: #00274C;
+      font-family: "Times New Roman", Times, serif;
+    }
+    p {
+      font-size: 22px;
+      font-weight: bold;
+      color: #00274C;
+      text-align: center;
+      margin: 0px 72px;
+      
+    }
+    img {
+      margin: 20px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 100px;
+    }
+    div {
+      color: #00274C;
+      font-family: "Times New Roman", Times, serif;
+      font-size: 30px;
+      font-weight: 900;
+    }
